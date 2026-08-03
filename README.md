@@ -1,3 +1,5 @@
+<img width="1221" height="502" alt="Town-Property Deep-Dive" src="https://github.com/user-attachments/assets/788e22af-50d4-4acc-9e80-cd9f24bb0aed" />
+<img width="1226" height="505" alt="Real_Estate_Executive_Dashboard" src="https://github.com/user-attachments/assets/942b8a7a-b3a5-4c0c-84ed-be2044be61ee" />
 # 🏢 Real Estate Executive Performance & Regional Deep-Dive Suite
 
 Large-scale Power BI analytics platform processing 1.05M+ real estate records across revenue, town performance, property type distributions, and granular matrix trends.
