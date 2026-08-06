@@ -1,5 +1,4 @@
 # 🏢 Large-Scale Real Estate Sales & Market Analytics Suite
-
 <img width="1226" height="505" alt="Real_Estate_Executive_Dashboard" src="https://github.com/user-attachments/assets/0d643fa1-3dd5-4d0d-a808-330ef0a255dc" />
 
 ## 📌 Project Overview
